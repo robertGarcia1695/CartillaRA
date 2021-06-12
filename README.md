@@ -1,3 +1,3 @@
 # CartillaRA
-landing page De catilla con realidad aumentada
+landing page De cartilla con realidad aumentada
 
